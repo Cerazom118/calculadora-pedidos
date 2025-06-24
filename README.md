@@ -1,4 +1,4 @@
-# Calculadora de Pedidos – Pruebas Unitarias con JUnit y GitHub Actions
+![Captura de pantalla 2025-06-23 225014](https://github.com/user-attachments/assets/1b29a2c4-6462-4c7e-b0af-5638a3cd9596)# Calculadora de Pedidos – Pruebas Unitarias con JUnit y GitHub Actions
 
 Este proyecto simula una aplicación backend que calcula el total de un pedido aplicando descuentos y costos de envío. Fue desarrollado con enfoque DevOps, incorporando pruebas unitarias, mocks para simular dependencias y automatización de pruebas con GitHub Actions.
 
@@ -30,6 +30,18 @@ Podríamos obtener resultados incorrectos sin darnos cuenta. Las pruebas empezar
 ## ¿Cómo escalamos esta estrategia para un sistema más grande?
 
 Dividiendo el sistema en módulos probables por separado, automatizando pruebas en CI/CD, usando inyección de dependencias para facilitar mocks, y manteniendo cobertura de pruebas alta en componentes críticos. Así se asegura calidad al crecer el sistema.
+
+---
+## Capturas Entregables.
+
+##Pantalla de ejecución de pruebas verdes.
+
+![Image20250623223836](https://github.com/user-attachments/assets/91ea48a2-db17-4d39-a7ee-9bafe5d04d55)
+
+##Captura del pipeline ejecutando en Github Actions.
+
+
+![Captura de pantalla 2025-06-23 225014](https://github.com/user-attachments/assets/684ba01d-839d-4b4f-809c-f74d403ac30b)
 
 ---
 
